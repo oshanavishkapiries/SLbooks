@@ -1,0 +1,1 @@
+export const MODAL_STORE_DATA = 'MODAL_STORE_DATA';

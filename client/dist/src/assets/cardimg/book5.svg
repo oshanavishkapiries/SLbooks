@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 490 490" xml:space="preserve">
+<g>
+	<g id="XMLID_47_">
+		<g>
+			<rect x="110" y="10" style="fill:#FFFFFF;" width="30" height="230"/>
+			<polygon style="fill:#F4661E;" points="175,10 175,330 75,330 75,10 110,10 110,240 140,240 140,10 			"/>
+			<rect x="175" y="10" style="fill:#FFD248;" width="100" height="320"/>
+			<rect x="315" y="10" style="fill:#31C0D8;" width="100" height="320"/>
+			<rect x="380" y="400" style="fill:#CCCCCC;" width="50" height="80"/>
+			<rect x="60" y="400" style="fill:#CCCCCC;" width="50" height="80"/>
+			<polygon style="fill:#999999;" points="480,330 480,400 430,400 380,400 110,400 60,400 10,400 10,330 75,330 175,330 275,330 
+				315,330 415,330 			"/>
+		</g>
+		<g>
+			<path d="M480,320h-55V10c0-5.523-4.477-10-10-10H315c-5.523,0-10,4.477-10,10v310h-20V10c0-5.523-4.477-10-10-10H175h-35h-30H75
+				c-5.523,0-10,4.477-10,10v310H10c-5.523,0-10,4.478-10,10v70c0,5.522,4.477,10,10,10h40v70c0,5.522,4.477,10,10,10h50
+				c5.523,0,10-4.478,10-10v-70h250v70c0,5.522,4.477,10,10,10h50c5.523,0,10-4.478,10-10v-70h40c5.523,0,10-4.478,10-10v-70
+				C490,324.478,485.523,320,480,320z M325,20h80v265h-45v20h45v15h-80V20z M265,20v300h-80V20H265z M120,20h10v210h-10V20z M85,20
+				h15v220c0,5.523,4.477,10,10,10h30c5.523,0,10-4.477,10-10V20h15v265h-45v20h45v15H85V20z M100,470H70v-60h30V470z M420,470h-30
+				v-60h30V470z M470,390h-40h-50H110H60H20v-50h55h100h100h40h100h55V390z"/>
+			<rect x="230" y="75" width="20" height="80"/>
+			<rect x="200" y="75" width="20" height="205"/>
+			<rect x="200" y="35" width="50" height="20"/>
+			<rect x="340" y="185" width="20" height="80"/>
+			<rect x="370" y="60" width="20" height="205"/>
+		</g>
+	</g>
+</g>
+</svg>
